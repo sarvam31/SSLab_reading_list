@@ -30,7 +30,7 @@ A curated reading list of diverse research papers across various fields and topi
 |  Date   | Paper                                                                                                                                                                                                       | Domain |  Venue   |  Related Resources |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------: | :-------: | :---------------------------------: |
 | 2025-01 | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2411.15100)                                                                                  |     Transformer - Position Encoding       |    Arxiv  | [Code](https://github.com/ZhuiyiTechnology/roformer)     
-|2025-01 | [Iteration Head:A Mechanistic Study of Chain-of-Thought](https://openreview.net/pdf?id=QBCxWpOt5w). NeurIPS 24 
+|2025-01 | [Iteration Head:A Mechanistic Study of Chain-of-Thought](https://openreview.net/pdf?id=QBCxWpOt5w). | Mechanistic Interpretability of transformers. | NeurIPS 24
 
 
 ## Blog Posts
